@@ -14,8 +14,7 @@
   ```
       LLM + Graphs = :fire: <br>
   ```
-  
- </h4>
+ 
   <p align="center">Solve Geometric & Graph Problems with Large Language Models
 </p>
 </p>
