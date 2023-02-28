@@ -9,9 +9,10 @@
 
 <p align="center">
 
-  LLM + Graphs = :fire: <br>
  
-  <p align="center">Solve Geometric & Graph Problems with Large Language Models
+  
+ 
+  <p align="center">LLM + Graphs = :fire: <br> Solve Geometric & Graph Problems with Large Language Models
 </p>
 </p>
 
