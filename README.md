@@ -1,7 +1,7 @@
 <div align="center">
 <h1>PromptGraph</h1></div>
 
-<div align="center"><img width="410px" src="https://raw.githubusercontent.com/monk1337/Graph-Neural-networks-for-NLP/main/knowledge-graph.jpg">
+<div align="center"><img width="600px" src="https://raw.githubusercontent.com/monk1337/Graph-Neural-networks-for-NLP/main/knowledge-graph.jpg">
 </div>
 
 <!-- 
