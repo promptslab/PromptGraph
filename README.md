@@ -1,7 +1,7 @@
 <div align="center">
 <h1>PromptGraph</h1></div>
 
-<div align="center"><img width="500px" src="https://raw.githubusercontent.com/promptslab/PromptGraph/main/extra/kb_prompt.jpg">
+<div align="center"><img width="800px" src="https://raw.githubusercontent.com/promptslab/PromptGraph/main/extra/kb_prompt.jpg">
 </div>
 
 <!-- 
