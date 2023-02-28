@@ -1,7 +1,7 @@
 <div align="center">
 <h1>PromptGraph</h1></div>
 
-<div align="center"><img width="1000px" src="https://raw.githubusercontent.com/promptslab/PromptGraph/main/extra/kb_prompt.jpg">
+<div align="center"><img width="900px" src="https://raw.githubusercontent.com/promptslab/PromptGraph/main/extra/kb_prompt.jpg">
 </div>
 
 <!-- 
@@ -27,3 +27,7 @@
     <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
   </a>
 </h4>
+
+<h6 align="center">
+<small><small>Image Source: docs.cohere.ai </small> </small>
+</h6>
