@@ -7,7 +7,12 @@
 <!-- 
 <h2 align="center">PromptGraph</h2> -->
 
-<p align="center"> LLM + Graphs = :fire: <br>
+<p align="center">
+
+ 
+   ```
+      LLM + Graphs = :fire: <br>
+  ```
   <p align="center">Solve Geometric & Graph Problems with Large Language Models
 </p>
 </p>
