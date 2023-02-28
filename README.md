@@ -15,7 +15,7 @@
  <h4 align="center">
  
    ```
-     Join discord for PromptGraph Discussion.
+     Join discord for PromptGraph Discussion
   ```
   <a href="https://github.com/promptslab/PromptGraph/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="PromptGraph is released under the Apache 2.0 license." />
