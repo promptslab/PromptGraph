@@ -9,10 +9,13 @@
 
 <p align="center">
 
+<h4 align="center">
  
   ```
       LLM + Graphs = :fire: <br>
   ```
+  
+ </h4>
   <p align="center">Solve Geometric & Graph Problems with Large Language Models
 </p>
 </p>
