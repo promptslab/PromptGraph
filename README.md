@@ -10,7 +10,7 @@
 <p align="center">
 
  
-   ```
+  ```
       LLM + Graphs = :fire: <br>
   ```
   <p align="center">Solve Geometric & Graph Problems with Large Language Models
